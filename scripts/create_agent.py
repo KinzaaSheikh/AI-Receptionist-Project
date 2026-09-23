@@ -39,6 +39,7 @@ Your responsibilities:
             "type": "retell-llm",
             "llm_id": llm.llm_id,
         },
+        voice_id="retell-Willa",
         language="en-US",
     )
 
